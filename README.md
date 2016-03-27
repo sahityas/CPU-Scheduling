@@ -1,9 +1,9 @@
 # CPU-Scheduling
----COMMAND LINE ARGUMENTS---
+COMMAND LINE ARGUMENTS
 none
 ----------------------------
 
------ALGORITHMS IMPLEMENTED-----
+ALGORITHMS IMPLEMENTED
 fcfs.c First come first serve
 sjfnp.c Shortest Job First Non premptive
 sjfp.c Shortest Job first premptive
@@ -12,7 +12,7 @@ priorityp.c Priority premptive
 rr.c Round Robin CPU Schdeuling
 --------------------------------
 
------------INPUTS----------------
+INPUTS
 Number of processes to be excecuted
 Arrival Time of each process (starts 0)
 Burst time of each process 
